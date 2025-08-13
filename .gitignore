@@ -22,8 +22,8 @@ out/
 
 src/main/webapp/WEB-INF/classes/
 
-src/main/webapp/WEB-INF/lib/(if generated automatically)
-rc/main/webapp/WEB-INF/db-config
+src/main/webapp/WEB-INF/lib/
+src/main/webapp/WEB-INF/db-config
 
 
 
