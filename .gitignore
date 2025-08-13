@@ -20,9 +20,9 @@ dist/
 
 out/
 
-WebContent/WEB-INF/classes/
+src/main/webapp/WEB-INF/classes/
 
-WebContent/WEB-INF/lib/(if generated automatically)
+src/main/webapp/WEB-INF/lib/(if generated automatically)
 rc/main/webapp/WEB-INF/db-config
 
 
