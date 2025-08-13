@@ -1,0 +1,81 @@
+# Eclipse project files (optional to ignore if you want to share the project structure)
+
+*.classpath
+
+*.project
+
+.settings/
+
+
+
+# Build output folders
+
+build/
+
+bin/
+
+target/
+
+dist/
+
+out/
+
+WebContent/WEB-INF/classes/
+
+WebContent/WEB-INF/lib/(if generated automatically)
+rc/main/webapp/WEB-INF/db-config
+
+
+
+
+# Java class files
+
+*.class
+
+
+
+# Temporary and backup files
+
+*.tmp
+
+*.bak
+
+*.swp
+
+*~
+
+
+
+# OS-specific files
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# Server-generated folders (e.g., Tomcat, JBoss)
+
+logs/
+
+temp/
+
+work/
+
+
+
+# Local config files
+
+*.env
+
+*.properties.local
+
+
+
+# IDE-specific
+
+.vscode/
+
+.idea/
+
+*.iml
