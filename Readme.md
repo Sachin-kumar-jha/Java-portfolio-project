@@ -27,4 +27,4 @@ This project showcases my skills, projects, and experience in a fully dynamic wa
 ---
 
 ## 📽️ Demo Video
-https://github.com/user-attachments/assets/95e5299a-e7ba-42a3-8a01-13109485cf1a
+https://github.com/user-attachments/assets/971013f6-375f-4863-81e8-617c11a210d5
